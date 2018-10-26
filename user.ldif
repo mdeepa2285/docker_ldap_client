@@ -1,0 +1,16 @@
+dn: uid=deepa,ou=People,dc=vilma,dc=com
+objectClass: top
+objectClass: account
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: nuthan
+uid: nuthan
+uidNumber: 16869
+gidNumber: 100
+homeDirectory: /home/nuthan
+loginShell: /bin/bash
+gecos: nuthan
+userPassword: {crypt}withcare
+shadowLastChange: 0
+shadowMax: 0
+shadowWarning: 0

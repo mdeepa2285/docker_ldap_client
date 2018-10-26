@@ -1,0 +1,4 @@
+BASE_DN=dc=vilma,dc=com
+URI=ldap://10.233.28.115
+ROOT_ADDCOUNT=cn=admin,dc=vilma,dc=com
+ROOT_PASSWORD=withcare
